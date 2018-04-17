@@ -1,0 +1,13 @@
+How people are reacting on demonetisation by analyzing 500 tweets.
+
+General Report:
+Weakly Positive
+
+Detailed Report:
+0.80% people thought it was strongly positive
+2.80% people thought it was positive
+40.20% people thought it was weakly positive
+14.00% people thought it was neutral
+41.00% people thought it was weakly negative
+0.80% people thought it was negative
+0.00% people thought it was strongly negative
